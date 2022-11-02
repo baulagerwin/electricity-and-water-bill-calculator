@@ -1,6 +1,8 @@
 # electricity-and-water-bill-calculator
 
-→ → → → → → → → → → → → → → → → → → → → → → → → → → → → → → → → → → → ↗
+## About
+
+→ → → → → → → → → → → → → → → → → → → → → → → → → → → → → → → → → → ↗
 
 ## Getting Started
 
