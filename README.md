@@ -18,7 +18,7 @@ Follow these instructions to run this project on your local machine for developm
 
 2. Go to the root file of the project then run npm install
 
-### `npm i`
+### `npm install`
 
 3. Start the server
 
@@ -31,10 +31,6 @@ Follow these instructions to run this project on your local machine for developm
 ## Built With
 
 - React
-
-## License
-
-This project is under MIT license - see the [LICENSE.md](./LICENSE.md)
 
 ## Acknowledgement
 
