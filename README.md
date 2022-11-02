@@ -1,6 +1,6 @@
 # electricity-and-water-bill-calculator
 
-React application where you can calculate meralco and manila water bill.
+→ → → → → → → → → → → → → → → → → → → → → → → → → → → → → → → → → → → ↗
 
 ## Getting Started
 
